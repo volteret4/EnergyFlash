@@ -1,0 +1,40 @@
+ENERGY.chapter({ n: 23, label: 'Cap. 22', title: 'Regreso al futuro: el retro electro, el nu wave y el revival de los ochenta' });
+ENERGY.add([
+  { id: 'electroclash', name: 'Electroclash y nu wave', family: 'revival', start: 1997, end: 2004, place: 'Nueva York (Williamsburg); Múnich; Detroit; La Haya',
+    aka: ['electroclash', 'nu wave', 'neoelectro', 'retrofuturismo', 'Berliniamsburg', 'International Deejay Gigolo'],
+    desc: 'En la primavera de 2002, en Berliniamsburg (Brooklyn), el club de Larry Tee, un universo paralelo donde el rave no hubiera existido: cortes asimétricos, corbatas estrechas, sintetizadores analógicos, vocoder y bajos de semicorcheas a lo «Blue Monday». Una generación harta del house y del trance quitó el éxtasis del house y volvió a los sonidos fríos «neuro-euro» que inspiraron a Chicago y Detroit: pose, cocaína, cantantes que destacan y obscenidades en lugar de unidad y mezcla. Tras Club Badd y el festival Electroclash de 2001 (Peaches, Adult., Chicks on Speed), una red global: International Deejay Gigolo de DJ Hell, Tiga, Ladytron, I-f («Space Invaders Are Smoking Grass», 1998, el regreso de la voz), Ersatz Audio, Dopplereffekt y Adult. («Human Wreck»). Retrofuturismo: «música máquina y a mucha honra», anomia ballardiana («Warm Leatherette»), artificio wildeano («No seas auténtico», Fischerspooner), glam y cuerda de terciopelo («Frank Sinatra» de Miss Kittin & The Hacker). Refrescante, pero lastrado por versiones, vocoder e ironía; los clásicos de los ochenta siguen siendo insuperables.',
+    artists: ['Larry Tee', 'Hungry Wives', 'Fischerspooner', 'Peaches', 'Adult.', 'Chicks on Speed', 'DJ Hell', 'Miss Kittin & The Hacker', 'Tiga', 'Ladytron', 'I-f', 'Le Car', 'Dopplereffekt', 'Legowelt', 'Vitalic', 'Solvent', 'Le Tigre', 'W.I.T.', 'My Robot Friend', 'The Normal', 'Felix da Housecat', 'Metro Area', 'Linda Lamb'],
+    labels: ['International Deejay Gigolo', 'Berliniamsburg', 'Club Badd', 'Ersatz Audio', 'Ghostly International', 'Interdimensional Transmissions', 'BPitch Control', 'Viewlexx', 'Mogul Electro'],
+    tracks: [
+      { a: 'I-f', t: 'Space Invaders Are Smoking Grass', y: 1997, ess: 1 },
+      { a: 'Miss Kittin & The Hacker', t: 'Frank Sinatra', y: 1997, ess: 1 },
+      { a: 'Fischerspooner', t: 'Emerge', y: 2001, ess: 1 },
+      { a: 'Adult.', t: 'Hand to Phone', y: 2001 },
+      { a: 'Hungry Wives', t: 'It’s Over', y: 2001 },
+      { a: 'Tiga & Zyntherius', t: 'Sunglasses at Night', y: 2001 },
+      { a: 'Vitalic', t: 'Poney Part 1', y: 2001 },
+      { a: 'Legowelt', t: 'Disco Rout', y: 1998 },
+      { a: 'Solvent', t: 'My Radio', y: 2001 },
+      { a: 'Dopplereffekt', t: 'Sterilization', y: 1997 },
+      { a: 'The Normal', t: 'Warm Leatherette', y: 1978 },
+      { a: 'Peaches', t: 'Fuck the Pain Away', y: 2000 },
+      { a: 'Ladytron', t: 'Playgirl', y: 2001 },
+    ],
+    influences: ['neo-detroit', 'electro', 'italo-disco', 'avant-funk'],
+    refs: [
+      { q: 'Quizá el «¿y si?» clave en este escenario histórico alternativo es «¿y si no se hubiera inventado el éxtasis?».' },
+      { q: 'La palabra clave que cristaliza a la vez todo lo atractivo y problemático de la explosión nu wave es «retrofuturista»' },
+      { q: 'Porque si es más de entonces... Bueno, los clásicos de los ochenta siguen siendo imposibles de superar.' },
+    ] },
+  { id: 'ghettotech', name: 'Ghettotech', family: 'detroit', start: 1994, end: 2004, place: 'Detroit',
+    aka: ['ghettotech', 'booty', 'porno-electro'],
+    desc: 'El funk del electro se basa en la Roland 808 y sus subgraves desafinados, que siguen latiendo en el Miami bass y el bounce. Con ellos, el nuevo electro conectaba con los bajos fondos del ghettotech de Detroit, banda sonora de los bares de striptease, popularísima entre la clase trabajadora negra de Michigan: el porno-electro de DJ Assault vende infinitamente más que el techno refinado, materialismo vil frente a trascendencia.',
+    artists: ['DJ Assault', 'DJ Godfather', 'Aux 88'],
+    labels: ['Electrofunk', 'Databass'],
+    tracks: [{ a: 'DJ Assault', t: 'Ass-N-Titties', y: 1997 }],
+    influences: ['electro', 'neo-detroit'],
+    refs: [{ q: 'Mientras que el techno de Detroit busca transcender el plano terreno/al, el ghettotech prefiere el vil materialismo' }] },
+], 23);
+ENERGY.add([
+  { id: 'electroclash', tracks: [{ a: 'New Order', t: 'Blue Monday', y: 1983 }, { a: 'Ultravox', t: 'Mr. X', y: 1980 }, { a: 'Grace Jones', t: 'Private Life', y: 1980 }, { a: 'Adult.', t: 'Human Wreck', y: 2001 }, { a: 'Adult.', t: 'Silent Property', y: 2001, yq: '-' }, { a: 'Dopplereffekt', t: 'Porno Actress', y: 1999 }, { a: 'Adult.', t: 'Me and My Rhythm Box', y: 2002, yq: 'Adult. Me and My Rhythm Box Liquid Sky' }, { a: 'My Robot Friend', t: 'The Fake', y: 2002 }, { a: 'Andrew W.K.', t: 'Party Til You Puke', y: 2001 }, { a: 'Fischerspooner', t: 'The 15th', y: 2001 }, { a: 'W.I.T.', t: 'Just What I Needed', y: 2002 }, { a: 'The Human League', t: 'Love Action (I Believe in Love)', y: 1981 }, { a: 'Gary Numan', t: 'Cars', y: 1979 }, { a: 'Linda Lamb', t: 'Hot Room', y: 2002 }, { a: 'RuPaul', t: 'Supermodel (You Better Work)', y: 1992 }, { a: 'Vitalic', t: 'You Prefer Cocaine', y: 2001 }] },
+], 23);

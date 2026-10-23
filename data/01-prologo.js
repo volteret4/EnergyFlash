@@ -1,0 +1,30 @@
+ENERGY.chapter({ n: 1, label: 'Prólogo', title: 'Nota del autor · Prefacio · Introducción · Todo empieza por M' });
+ENERGY.add([
+  { id: 'continuum-hardcore', name: 'El continuo hardcore', family: 'rave', start: 1988, end: 2012, place: 'Reino Unido; Europa',
+    aka: ['hardcore continuum', 'presión hardcore', 'hardcore'],
+    desc: 'La tesis partidista del libro: Reynolds, «observador participante» que llegó al rave en la segunda ola de 1991-1992 tras años de crítico indie, defiende que las escenas hardcore —anónimas, colectivas, funcionales, al servicio de la pista, las drogas y el DJ— son el verdadero motor creativo de la música de baile, y que lo que se llama «progresivo» o «inteligente» suele ser un retroceso a la musicalidad tradicional y a la industria de autores, álbumes y carreras. Traza un continuo que va de los jack tracks y el acid house al bleep-and-bass, el breakbeat house, el hardcore belga, el jungle, el gabba, el big beat y el speed garage. En el Londres de 1991-1992, hardcore era un ruido narcótico ultrarrápido de breakbeats que los entendidos del techno aborrecían: para él, la música más extraña y estimulante de los noventa, el espíritu del punk en el cuerpo del hip hop. Su lema: «Esta es mi verdad. Cuéntame tú la tuya».',
+    artists: ['Simon Reynolds', 'The Shamen', 'Orbital', 'N-Joi', 'K-Klass', 'Bassheads', 'M-People'],
+    labels: ['Labrynth', 'Trade', 'Progeny'],
+    tracks: [{ a: 'Orbital', t: 'Chime', y: 1989, ess: 1 }],
+    influences: ['acid-house'],
+    refs: [
+      { q: 'Esta es mi verdad. Cuéntame tú la tuya' },
+      { q: 'la convicción de que las escenas hardcore en la cultura de baile son el verdadero motor creativo de la música' },
+      { q: 'una loca canalización del espíritu del punk (en el sentido del garage de los sesenta y de los Stooges/Pistols de los setenta) en el cuerpo del hip hop (breakbeats y bajos)' },
+      { q: 'Mientras que el rock narra una experiencia (autobiográfica o imaginaria), el rave construye una experiencia.' },
+      { q: 'el público del rave pide música para beber, drogarse y perder los papeles' },
+    ] },
+  { id: 'extasis', name: 'El éxtasis (MDMA)', family: 'cultura', start: 1912, end: 2012, place: 'Estados Unidos; Reino Unido',
+    aka: ['MDMA', 'éxtasis', 'Adán', 'X', 'loved-up', 'empatógeno', 'entactógeno'],
+    desc: 'Todo empieza por M. La «anfetamina psicodélica», patentada por Merck antes de la Primera Guerra Mundial, fue redescubierta a principios de los sesenta por el bioquímico Alexander Shulgin; a finales de los setenta circulaba entre terapeutas estadounidenses como «Adán», hasta que se coló en los clubs de Dallas y Austin y fue prohibida el 1 de julio de 1985 (en el Reino Unido ya era de Clase A desde 1977). Inunda el cerebro de dopamina y serotonina: euforia, empatía —«la droga del nosotros», remedio a la alienación de la década del yo— y una sinergia sinestésica con la música electrónica repetitiva, que los productores fueron afinando para provocar ráfagas de cosquilleo. Pero tiene su peaje: el bajón de mitad de semana, el rendimiento decreciente, la politoxicomanía, el golpe de calor (la muerte de Leah Betts en 1995). De ahí la dialéctica utópica/distópica de toda escena rave: el éxtasis empieza como «vitalcatalizador» y acaba como «inconscienciáceo».',
+    artists: ['Alexander Shulgin', 'Ann Shulgin', 'Leah Betts'],
+    labels: ['Merck', 'Dow Chemicals'],
+    tracks: [],
+    influences: [],
+    refs: [
+      { q: 'El MDMA es la droga del «nosotros».' },
+      { q: 'El uno de julio de 1985, el MDMA se prohibió durante un año.' },
+      { q: 'Así pues, tomar éxtasis es como salir de fiesta emocional y gastar tu felicidad por adelantado.' },
+      { q: 'Por lo que parece, en la estructura química del MDMA está programada la instrucción: «úsame, no abuses de mí».' },
+    ] },
+], 1);

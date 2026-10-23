@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="9788418282041" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Energy Flash</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="cubierta.xhtml" playOrder="1">
+      <navLabel>
+        <text>Cubierta</text>
+      </navLabel>
+      <content src="text/cubierta.xhtml" />
+    </navPoint>
+    <navPoint id="creditos.xhtml" playOrder="2">
+      <navLabel>
+        <text>Créditos</text>
+      </navLabel>
+      <content src="text/creditos.xhtml" />
+    </navPoint>
+    <navPoint id="agradecimientos.xhtml" playOrder="3">
+      <navLabel>
+        <text>AGRADECIMIENTOS</text>
+      </navLabel>
+      <content src="text/agradecimientos.xhtml" />
+    </navPoint>
+    <navPoint id="nota.xhtml" playOrder="4">
+      <navLabel>
+        <text>NOTA DEL AUTOR</text>
+      </navLabel>
+      <content src="text/nota.xhtml" />
+    </navPoint>
+    <navPoint id="prefacio.xhtml" playOrder="5">
+      <navLabel>
+        <text>PREFACIO A LA EDICIÓN ACTUALIZADA</text>
+      </navLabel>
+      <content src="text/prefacio.xhtml" />
+    </navPoint>
+    <navPoint id="introduccion.xhtml" playOrder="6">
+      <navLabel>
+        <text>INTRODUCCIÓN</text>
+      </navLabel>
+      <content src="text/introduccion.xhtml" />
+    </navPoint>
+    <navPoint id="prologo.xhtml" playOrder="7">
+      <navLabel>
+        <text>PRÓLOGO. TODO EMPIEZA POR M</text>
+      </navLabel>
+      <content src="text/prologo.xhtml" />
+    </navPoint>
+    <navPoint id="c01.xhtml" playOrder="8">
+      <navLabel>
+        <text>1. UNA HISTORIA, TRES CIUDADES</text>
+      </navLabel>
+      <content src="text/c01.xhtml" />
+    </navPoint>
+    <navPoint id="c02.xhtml" playOrder="9">
+      <navLabel>
+        <text>2. VIVIENDO UN SUEÑO</text>
+      </navLabel>
+      <content src="text/c02.xhtml" />
+    </navPoint>
+    <navPoint id="c03.xhtml" playOrder="10">
+      <navLabel>
+        <text>3. TWENTY-FOUR-HOUR PARTY PEOPLE</text>
+      </navLabel>
+      <content src="text/c03.xhtml" />
+    </navPoint>
+    <navPoint id="c04.xhtml" playOrder="11">
+      <navLabel>
+        <text>4. 'ARDKORE, YOU KNOW THE SCORE</text>
+      </navLabel>
+      <content src="text/c04.xhtml" />
+    </navPoint>
+    <navPoint id="c05.xhtml" playOrder="12">
+      <navLabel>
+        <text>5. FIGHT FOR YOUR RIGHT TO PARTY</text>
+      </navLabel>
+      <content src="text/c05.xhtml" />
+    </navPoint>
+    <navPoint id="c06.xhtml" playOrder="13">
+      <navLabel>
+        <text>6. ALIMENTA TU MENTE</text>
+      </navLabel>
+      <content src="text/c06.xhtml" />
+    </navPoint>
+    <navPoint id="c07.xhtml" playOrder="14">
+      <navLabel>
+        <text>7. DESLIZÁNDOSE HACIA LA OSCURIDAD</text>
+      </navLabel>
+      <content src="text/c07.xhtml" />
+    </navPoint>
+    <navPoint id="c08.xhtml" playOrder="15">
+      <navLabel>
+        <text>8. EL SONIDO FUTURO DE DETROIT</text>
+      </navLabel>
+      <content src="text/c08.xhtml" />
+    </navPoint>
+    <navPoint id="c09.xhtml" playOrder="16">
+      <navLabel>
+        <text>9. ESTE SONIDO ES CLANDESTINO</text>
+      </navLabel>
+      <content src="text/c09.xhtml" />
+    </navPoint>
+    <navPoint id="c10.xhtml" playOrder="17">
+      <navLabel>
+        <text>10. RAÍCES Y FUTURO</text>
+      </navLabel>
+      <content src="text/c10.xhtml" />
+    </navPoint>
+    <navPoint id="c11.xhtml" playOrder="18">
+      <navLabel>
+        <text>11. MARCHANDO HACIA LA LOCURA</text>
+      </navLabel>
+      <content src="text/c11.xhtml" />
+    </navPoint>
+    <navPoint id="c12.xhtml" playOrder="19">
+      <navLabel>
+        <text>12. AMÉRICA LA RAVE</text>
+      </navLabel>
+      <content src="text/c12.xhtml" />
+    </navPoint>
+    <navPoint id="c13.xhtml" playOrder="20">
+      <navLabel>
+        <text>13. LOS SONIDOS DE LA PARANOIA</text>
+      </navLabel>
+      <content src="text/c13.xhtml" />
+    </navPoint>
+    <navPoint id="c14.xhtml" playOrder="21">
+      <navLabel>
+        <text>14. GUERRA EN LA JUNGLA</text>
+      </navLabel>
+      <content src="text/c14.xhtml" />
+    </navPoint>
+    <navPoint id="c15.xhtml" playOrder="22">
+      <navLabel>
+        <text>15. PSICODELIA DIGITAL</text>
+      </navLabel>
+      <content src="text/c15.xhtml" />
+    </navPoint>
+    <navPoint id="c16.xhtml" playOrder="23">
+      <navLabel>
+        <text>16. A LA MIERDA BAILAR, VAMOS A HACER ARTE</text>
+      </navLabel>
+      <content src="text/c16.xhtml" />
+    </navPoint>
+    <navPoint id="c17.xhtml" playOrder="24">
+      <navLabel>
+        <text>17. EN NUESTRA ANGELIDAD</text>
+      </navLabel>
+      <content src="text/c17.xhtml" />
+    </navPoint>
+    <navPoint id="c18.xhtml" playOrder="25">
+      <navLabel>
+        <text>18. OUTRO</text>
+      </navLabel>
+      <content src="text/c18.xhtml" />
+    </navPoint>
+    <navPoint id="c19.xhtml" playOrder="26">
+      <navLabel>
+        <text>19. TRANCE-MISIÓN</text>
+      </navLabel>
+      <content src="text/c19.xhtml" />
+    </navPoint>
+    <navPoint id="c20.xhtml" playOrder="27">
+      <navLabel>
+        <text>20. DOS PASOS MÁS ALLÁ</text>
+      </navLabel>
+      <content src="text/c20.xhtml" />
+    </navPoint>
+    <navPoint id="c21.xhtml" playOrder="28">
+      <navLabel>
+        <text>21. EN LA MEZCLA</text>
+      </navLabel>
+      <content src="text/c21.xhtml" />
+    </navPoint>
+    <navPoint id="c22.xhtml" playOrder="29">
+      <navLabel>
+        <text>22. REGRESO AL FUTURO</text>
+      </navLabel>
+      <content src="text/c22.xhtml" />
+    </navPoint>
+    <navPoint id="c23.xhtml" playOrder="30">
+      <navLabel>
+        <text>23. CRISIS Y CONSOLIDACIÓN</text>
+      </navLabel>
+      <content src="text/c23.xhtml" />
+    </navPoint>
+    <navPoint id="c24.xhtml" playOrder="31">
+      <navLabel>
+        <text>24. FLASHBACKS</text>
+      </navLabel>
+      <content src="text/c24.xhtml" />
+    </navPoint>
+    <navPoint id="c25.xhtml" playOrder="32">
+      <navLabel>
+        <text>25. EL FUTURO ES AHORA</text>
+      </navLabel>
+      <content src="text/c25.xhtml" />
+    </navPoint>
+    <navPoint id="sobre-autor.xhtml" playOrder="33">
+      <navLabel>
+        <text>SOBRE EL AUTOR</text>
+      </navLabel>
+      <content src="text/sobre-autor.xhtml" />
+    </navPoint>
+    <navPoint id="notas.xhtml" playOrder="34">
+      <navLabel>
+        <text>NOTAS</text>
+      </navLabel>
+      <content src="text/notas.xhtml" />
+    </navPoint>
+    <navPoint id="contracubierta.xhtml" playOrder="35">
+      <navLabel>
+        <text>Contracubierta</text>
+      </navLabel>
+      <content src="text/contracubierta.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

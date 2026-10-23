@@ -1,0 +1,119 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="isbn9788418282041" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>Energy Flash</dc:title>
+		<dc:language>es-ES</dc:language>
+		<dc:identifier id="isbn9788418282041" opf:scheme="ISBN"/>
+		<dc:creator opf:file-as="Reynolds, Simon" opf:role="aut">Simon Reynolds</dc:creator>
+		<dc:contributor opf:file-as="Vergés, María" opf:role="bkd">María Vergés</dc:contributor>
+		<dc:contributor opf:file-as="Aparicio, Didac" opf:role="edt">Didac Aparicio</dc:contributor>
+		<dc:contributor opf:file-as="Sancho, Eduard" opf:role="edt">Eduard Sancho</dc:contributor>
+		<dc:contributor opf:file-as="Barrio, Pablo" opf:role="mrk">Pablo Barrio</dc:contributor>
+		<dc:contributor opf:file-as="Martínez, Begoña" opf:role="trl">Begoña Martínez</dc:contributor>
+		<dc:contributor opf:file-as="Cereceda, Gabriel" opf:role="trl">Gabriel Cereceda</dc:contributor>
+		<dc:contributor opf:file-as="Guiu, Silvia" opf:role="trl">Silvia Guiu</dc:contributor>
+		<dc:date opf:event="publication">2020-03</dc:date>
+		<dc:date opf:event="creation">2020-03</dc:date>
+		<dc:subject>No ficción</dc:subject>
+		<dc:publisher>Bookwire Spain</dc:publisher>
+		<dc:rights>© 1998, 2008, 2013, Simon Reynolds</dc:rights>
+		<dc:rights>© 2014, Begoña Martínez, Gabriel Cereceda y Silvia Guiu, de la traducción</dc:rights>
+		<dc:rights>© 2020, Contraediciones, S.L.</dc:rights>
+		<meta content="cover-image" name="cover"/>
+	<description xmlns="http://purl.org/dc/elements/1.1/">CANT26129673</description>
+</metadata>
+	<manifest>
+		<!-- ncx -->
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<!-- images -->
+		<item href="images/contracubierta.jpg" id="contracubierta-image" media-type="image/jpeg"/>
+		<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+		<item href="images/sep01.png" id="sep01-image" media-type="image/png"/>
+		<item href="images/rayo01.png" id="rayo01-image" media-type="image/png"/>
+		<item href="images/rayo02.png" id="rayo02-image" media-type="image/png"/>
+		<!-- text -->
+		<item href="text/agradecimientos.xhtml" id="agradecimientos.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c01.xhtml" id="c01.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c02.xhtml" id="c02.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c03.xhtml" id="c03.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c04.xhtml" id="c04.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c05.xhtml" id="c05.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c06.xhtml" id="c06.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c07.xhtml" id="c07.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c08.xhtml" id="c08.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c09.xhtml" id="c09.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c10.xhtml" id="c10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c11.xhtml" id="c11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c12.xhtml" id="c12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c13.xhtml" id="c13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c14.xhtml" id="c14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c15.xhtml" id="c15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c16.xhtml" id="c16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c17.xhtml" id="c17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c18.xhtml" id="c18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c19.xhtml" id="c19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c20.xhtml" id="c20.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c21.xhtml" id="c21.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c22.xhtml" id="c22.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c23.xhtml" id="c23.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c24.xhtml" id="c24.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/c25.xhtml" id="c25.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/contracubierta.xhtml" id="contracubierta.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/creditos.xhtml" id="creditos.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/cubierta.xhtml" id="cubierta.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/indice.xhtml" id="indice.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/introduccion.xhtml" id="introduccion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nota.xhtml" id="nota.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/notas.xhtml" id="notas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prefacio.xhtml" id="prefacio.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologo.xhtml" id="prologo.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sobre-autor.xhtml" id="sobre-autor.xhtml" media-type="application/xhtml+xml"/>
+		<!-- styles -->
+		<item href="styles/style001.css" id="style001.css" media-type="text/css"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cubierta.xhtml" linear="no"/>
+		<itemref idref="creditos.xhtml"/>
+		<itemref idref="indice.xhtml"/>
+		<itemref idref="agradecimientos.xhtml"/>
+		<itemref idref="nota.xhtml"/>
+		<itemref idref="prefacio.xhtml"/>
+		<itemref idref="introduccion.xhtml"/>
+		<itemref idref="prologo.xhtml"/>
+		<itemref idref="c01.xhtml"/>
+		<itemref idref="c02.xhtml"/>
+		<itemref idref="c03.xhtml"/>
+		<itemref idref="c04.xhtml"/>
+		<itemref idref="c05.xhtml"/>
+		<itemref idref="c06.xhtml"/>
+		<itemref idref="c07.xhtml"/>
+		<itemref idref="c08.xhtml"/>
+		<itemref idref="c09.xhtml"/>
+		<itemref idref="c10.xhtml"/>
+		<itemref idref="c11.xhtml"/>
+		<itemref idref="c12.xhtml"/>
+		<itemref idref="c13.xhtml"/>
+		<itemref idref="c14.xhtml"/>
+		<itemref idref="c15.xhtml"/>
+		<itemref idref="c16.xhtml"/>
+		<itemref idref="c17.xhtml"/>
+		<itemref idref="c18.xhtml"/>
+		<itemref idref="c19.xhtml"/>
+		<itemref idref="c20.xhtml"/>
+		<itemref idref="c21.xhtml"/>
+		<itemref idref="c22.xhtml"/>
+		<itemref idref="c23.xhtml"/>
+		<itemref idref="c24.xhtml"/>
+		<itemref idref="c25.xhtml"/>
+		<itemref idref="sobre-autor.xhtml"/>
+		<itemref idref="notas.xhtml"/>
+		<itemref idref="contracubierta.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="text/cubierta.xhtml" title="Cubierta" type="cover"/>
+		<reference href="text/creditos.xhtml" title="Créditos" type="copyright-page"/>
+		<reference href="text/indice.xhtml" title="Índice" type="toc"/>
+		<reference href="text/agradecimientos.xhtml" title="Agradecimientos" type="acknowledgments"/>
+		<reference href="text/nota.xhtml" title="Energy Flash" type="text"/>
+		<reference href="text/notas.xhtml" title="Notas" type="notes"/>
+	</guide>
+</package>

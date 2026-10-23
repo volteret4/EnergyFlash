@@ -1,0 +1,60 @@
+ENERGY.chapter({ n: 12, label: 'Cap. 11', title: 'Marchando hacia la locura: el gabba y el happy hardcore' });
+ENERGY.add([
+  { id: 'gabba', name: 'Gabba', family: 'duro', start: 1992, end: 1999, place: 'Rotterdam; Países Bajos; Escocia',
+    aka: ['gabber', 'gabba', 'hakke', 'Rotterdam techno', 'Nightmare', 'Thunderdome'],
+    desc: 'Desde «Mentasm», el hoover belga y «We Have Arrived» de Mescalinum United (The Mover, de PCP), los holandeses añadieron un bombo 909 distorsionado a entre 180 y 250 pulsaciones: solo percusión y sacudidas. «Gabba», yiddish holandés para «amigo», pasó a significar garrulo, y la juventud proletaria de Rotterdam lo convirtió en orgullo contra Ámsterdam («Where the Fuck Is Amsterdam?» de Euromasters, de Paul Elstak). Productores salidos del hip hop (Darkraver, Chosen Few), imaginería militar, de terror y de videojuego, una subcultura de cabezas rapadas, chándals Aussie y baile de pies vertiginoso; el éxtasis degenerado en anfetamina y una «remasculación» del rave. Con fama de «techno nazi» por los cánticos del Feyenoord y algunos skinheads, los sellos respondían con «Gabbers unidos contra el racismo»; casi nunca hay peleas, la agresividad va contra el propio cuerpo. Lo salva el humor (el demonio en pañales de K.N.O.R., los ositos de Forz). Para Reynolds, el eslabón perdido entre el thrash metal y el Hi-NRG gay: la masculinidad hecha música.',
+    artists: ['Paul Elstak', 'Euromasters', 'Darkraver', 'Chosen Few', 'Robert Meijer', 'Sperminator', 'Mescalinum United', 'The Mover', 'Annihilator', 'Technohead', 'Michael Wells'],
+    labels: ['Nightmare', 'Rotterdam Records', 'K.N.O.R.', 'Ruffneck', 'Mokum', 'Babyboom', 'Terror Traxx', 'Forz', 'PCP'],
+    tracks: [
+      { a: 'Mescalinum United', t: 'We Have Arrived', y: 1990, ess: 1 },
+      { a: 'Euromasters', t: 'Amsterdam Waar Lech Dat Dan?', y: 1992 },
+      { a: 'Sperminator', t: 'No Woman Allowed', y: 1993 },
+      { a: 'Annihilator', t: 'Mindwar', y: 1993 },
+      { a: 'Inferno Bros.', t: 'Slaves to the Rave', y: 1995 },
+    ],
+    influences: ['mentasm', 'hardcore-belga', 'plus-8'],
+    refs: [
+      { q: 'Es gabba, el estilo ultrarrápido y superagresivo de hardcore techno desarrollado por los holandeses a principios de los noventa' },
+      { q: 'A pesar de que el sonido gabba es el más ario que existe por detrás del death metal, en algunos aspectos es el equivalente holandés del hip hop.' },
+      { q: 'El gabba, el eslabón perdido entre el thrash metal y la música disco Hi-NRG gay, es la masculinidad hecha música.' },
+      { q: 'Una rave gabba es un manicomio.' },
+    ] },
+  { id: 'happy-hardcore', name: 'Happy gabba y happy hardcore', family: 'duro', start: 1993, end: 1999, place: 'Países Bajos; Escocia; Inglaterra',
+    aka: ['happy hardcore', 'happy gabba', 'fun-core', 'Rezerection', 'Dreamscape', 'Kniteforce'],
+    desc: 'En 1994, con la música demasiado dura y cada vez menos chicas bailando, Elstak («Rainbow in the Sky», «Luv U More») se pasó al happy gabba siguiendo al escocés Scott Brown, para ira de los puristas («El happy es para maricas»); «I Wanna Be a Hippy» de Technohead llegó al Top 10 británico. En Escocia, Rezerection: camisetas de sellos holandeses, oom-pah y Hava Nagila, guantes blancos y la fe intacta del 91-92, con puestos de Lifeline y la policía acosando tras las muertes del Hangar 13. En Inglaterra, el happy hardcore nació en 1993 como escisión del jungle (Seduction, Vibes, Slipmatt; Kniteforce, Slammin’, Dreamscape), breakbeats a 170 y todo lo que el jungle purgó por cursi: un éxodo blanco y más joven, aún en la luna de miel del éxtasis, con sus propias revistas que tratan al público como estrella. Como el heavy metal, nostalgia de algo que no viviste para la juventud de provincias.',
+    artists: ['Paul Elstak', 'Scott Brown', 'Technohead', 'Ultra-Sonic', 'Q-Tex', 'The Rhythmic State', 'Seduction', 'Vibes', 'Slipmatt', 'Dougal', 'Brisk', 'Hixxy', 'Force & Styles', 'Sy & Unknown', 'DJ Ham', 'Chris Howell'],
+    labels: ['Rezerection', 'Kniteforce', 'Slammin’ Vinyl', 'Impact', 'Universal', 'Dreamscape', 'Helter Skelter', 'Labrynth'],
+    tracks: [
+      { a: 'Technohead', t: 'I Wanna Be a Hippy', y: 1995, ess: 1 },
+      { a: 'Paul Elstak', t: 'Rainbow in the Sky', y: 1995, ess: 1 },
+      { a: 'Paul Elstak', t: 'Luv U More', y: 1995 },
+      { a: 'The Rhythmic State', t: 'No D.S. Allowed', y: 1995 },
+      { a: 'Force & Styles', t: 'Heart of Gold', y: 1996 },
+    ],
+    influences: ['gabba', 'rave-pop', 'jungle'],
+    refs: [
+      { q: 'El happy hardcore coge todos los elementos que el jungle purgó como demasiado «cheesy quaver»' },
+      { q: 'nostalgia de algo que nunca viviste' },
+    ] },
+  { id: 'terrorcore', name: 'Terrorcore y storm-core: el guergasmo', family: 'duro', start: 1994, end: 1999, place: 'Newcastle (Australia); Reino Unido; Fráncfort; Nueva York',
+    aka: ['terrorcore', 'speedcore', 'storm-core', 'doomcore', 'scarecore', 'Bloody Fist', 'Praxis', 'Cold Rush'],
+    desc: 'Contra el happy, una red de disidentes del «gabba de calidad»: Nasenbluten de Newcastle (Australia), grabando a 300 pulsaciones en un Amiga («100% No Soul Guaranteed»), el DJ inglés Loftgroover y sus «doomtroopers» que pinchan Slayer, Signs Ov Chaos en el sello de metal Earache, Industrial Strength de Lenny Dee y en Londres Praxis, con sus fiestas Dead By Dawn y la revista Alien Underground, gabba como sonido de la ira contra la ley de Justicia Penal. Fantasías cíborg y militares a lo Virilio y a lo futurista; y el gloom-core de PCP y Cold Rush, paisajes después de la batalla. El apocalipsis orgásmico: el «guergasmo».',
+    artists: ['Nasenbluten', 'Mark Newlands', 'Embolism', 'Loftgroover', 'Signs Ov Chaos', 'Lenny Dee', 'Ultraviolence', 'The Mover', 'DOA', 'Temper Tantrum', 'The Speedfreak', 'DJ Producer', 'Lory D'],
+    labels: ['Bloody Fist', 'Industrial Strength', 'Earache', 'Praxis', 'Dead By Dawn', 'Cold Rush', 'PCP', 'Napalm'],
+    tracks: [
+      { a: 'Nasenbluten', t: '100% No Soul Guaranteed', y: 1995 },
+      { a: 'Signs Ov Chaos', t: 'Frankenscience', y: 1997 },
+      { a: 'Ultraviolence', t: 'Psycho Drama', y: 1996 },
+      { a: 'The Mover', t: 'Frontal Sickness', y: 1993 },
+    ],
+    influences: ['gabba', 'fiestas-libres'],
+    refs: [
+      { q: 'Para el dionisíaco digital de la actualidad, el gabbanauta, la liberación no adquiere la forma del «orgasmo apocalíptico» de Mailer, sino del apocalipsis orgásmico, el Guergasmo.' },
+      { q: 'El objetivo es ponerse ciego.' },
+    ] },
+], 12);
+ENERGY.add([
+  { id: 'gabba', tracks: [{ a: 'Black Sabbath', t: 'Iron Man', y: 1970 }] },
+  { id: 'happy-hardcore', tracks: [{ a: 'Paul Elstak', t: 'Life Is Like a Dance', y: 1995 }, { a: 'Cutting Crew', t: '(I Just) Died in Your Arms', y: 1986 }] },
+  { id: 'terrorcore', tracks: [{ a: 'Embolism', t: 'This Means Fucking War!', y: 1995 }, { a: 'Cypher', t: 'Marching into Madness', y: 1995 }] },
+], 12);

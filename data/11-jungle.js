@@ -1,0 +1,51 @@
+ENERGY.chapter({ n: 11, label: 'Cap. 10', title: 'Raíces y futuro: el jungle invade Londres' });
+ENERGY.add([
+  { id: 'jungle', name: 'Jungle', family: 'jungle', start: 1992, end: 1996, place: 'Londres y condados de alrededor',
+    aka: ['jungle', 'drum and bass', 'junglist', 'junglista', 'ciencia del breakbeat', 'rumblizm', 'dubplates'],
+    desc: 'Entre 1992 y 1994 el jungle se despojó de la crisálida del ’ardkore y del espíritu rave; solo quedó la velocidad. Su esencia son los breakbeats acelerados y fragmentados —el «Amen» de The Winstons, «Think» de Lyn Collins—, cortados, resecuenciados y tratados con time-stretching y pitch-shifting hasta una «ciencia del breakbeat» y una psicodelia rítmica física: el ritmo es la melodía («Renegade Snares» de Omni Trio). Debajo, un bajo de dub a media velocidad (unas setenta pulsaciones) que lo convierte en música de dos carriles, y graves mutantes («dread bass»). Venían de antiguos B-boys británicos (Danny Breaks, DJ Hype, Goldie, 4 Hero) y de la cultura de sound system: hip hop del siglo XXI y ciberdub, reconexión del Bronx con Kingston en el «Atlántico negro»; el nombre viene de los «junglists» de Arnett Gardens (Concrete Jungle) que sampleó Rebel MC. Multirracial (más de la mitad de los productores, blancos) y de clase: «sea cual sea tu clase, color o credo». Con el cambio del éxtasis por la marihuana, el sudor y las sonrisas dieron paso a la frialdad y al «gangsta rave». Atrincherado en Londres, se sostuvo con radios piratas, vinilos, cintas de mezclas, tiendas y dubplates; en 1994 llegó a los medios, y el boicot a General Levy anunció su fragmentación.',
+    artists: ['Omni Trio', 'Foul Play', 'Danny Breaks', 'Droppin’ Science', 'DJ Hype', 'Aphrodite', 'DJ Crystl', 'Andy C', 'Dead Dred', 'Doc Scott', 'Goldie', 'DJ SS', 'Rebel MC', 'Hyper-On Experience', 'DJ Trax', 'Blame', 'Nicky Blackmarket', 'MC Navigator', 'Kemet Crew', 'The Winstons', 'Lyn Collins', 'Kool Herc'],
+    labels: ['Moving Shadow', 'Suburban Base', 'Reinforced', 'Ram', 'Kool FM', 'Lucky Spin', 'Blackmarket', 'Telepathy', 'Thunder and Joy', 'X Project'],
+    tracks: [
+      { a: 'The Winstons', t: 'Amen, Brother', y: 1969, ess: 1 },
+      { a: 'Lyn Collins', t: 'Think (About It)', y: 1972 },
+      { a: 'Incredible Bongo Band', t: 'Apache', y: 1973 },
+      { a: 'Omni Trio', t: 'Renegade Snares', y: 1993, ess: 1 },
+      { a: 'Dead Dred', t: 'Dred Bass', y: 1994, ess: 1 },
+      { a: 'Hyper-On Experience', t: 'Thunder Grip', y: 1992 },
+      { a: 'Blame', t: 'Music Takes You', y: 1992 },
+      { a: 'Phuture Assassins', t: 'Roots ’n Future', y: 1992 },
+      { a: 'Code 071', t: 'London Sumtin’ Dis', y: 1992 },
+      { a: 'The Wailers', t: 'Concrete Jungle', y: 1973 },
+      { a: 'Grandmaster Flash & the Furious Five', t: 'The Message', y: 1982 },
+    ],
+    influences: ['ardkore', 'darkside', 'shut-up-and-dance', 'radios-piratas'],
+    refs: [
+      { q: 'A partir del caos inestable del ’ardkore, se desarrolló un sonido completamente nuevo, una nueva subcultura: el jungle.' },
+      { q: 'La ciencia del breakbeat transformó el jungle en una psicodelia rítmica.' },
+      { q: 'En el jungle, el ritmo es la melodía' },
+      { q: 'El jungle es el punto en el que vuelven a converger todas las diferentes músicas de la diáspora afroamericana/afrocaribeña' },
+      { q: 'El verdadero significado de «junglista» no está definido por la raza, sino por la clase' },
+    ] },
+  { id: 'ragga-jungle', name: 'Ragga jungle y gangsta rave', family: 'jungle', start: 1993, end: 1995, place: 'Londres',
+    aka: ['ragga jungle', 'jump-up', 'gangsta rave', 'rude boys', 'Original Nuttah'],
+    desc: 'Desde finales de 1992 el jungle adoptó una actitud delictiva: saludos de los MC a «los malos» y a los rude boys, samples de sirenas, tiroteos y películas de gángsters («Original Nuttah» y «Gangsta Kid» de Shy FX con Ray Liotta), nombres como Tek 9 o AK47. A principios de 1994 triunfaban los temas con voces de estrellas del raggamuffin (Buju Banton, Cutty Ranks, Ninjaman), mecheros en alto, «rewinds», dubplates y bailes de dancehall. El reflejo de la recesión y del desmantelamiento del estado del bienestar: olvido y delincuencia. En el Carnaval de Notting Hill de 1994 sonaba en todos los sound systems; «Incredible» de M-Beat con General Levy llegó al Top 10, y su «Ahora dirijo el jungle» provocó el boicot de The Committee.',
+    artists: ['UK Apachi', 'Shy FX', 'Naz Aka Naz', 'Conquering Lion', 'Family of Intelligence', 'M-Beat', 'General Levy', 'Buju Banton', 'Cutty Ranks', 'Ninjaman', 'Spragga Benz', 'Patra'],
+    labels: ['SOUR', 'Renk', 'Don FM', 'The Committee'],
+    tracks: [
+      { a: 'UK Apachi & Shy FX', t: 'Original Nuttah', y: 1994, ess: 1 },
+      { a: 'Shy FX', t: 'Gangsta Kid', y: 1994 },
+      { a: 'Conquering Lion', t: 'Code Red', y: 1994 },
+      { a: 'M-Beat feat. General Levy', t: 'Incredible', y: 1994, ess: 1 },
+      { a: 'Family of Intelligence', t: 'Champion of Champions', y: 1994 },
+    ],
+    influences: ['jungle'],
+    refs: [
+      { q: 'En muchos sentidos, el jungle es una música proscrita: los tres vértices de la escena son las radios piratas, las drogas y los samples robados.' },
+      { q: 'Todo esto convirtió la aparición del «gangsta rave» (una aparente contradicción de términos) en el resultado lógico del fallo del sistema.' },
+      { q: 'Estamos en 1994 y el jungle está cortando el bacalao en Londres ahora mismo.' },
+    ] },
+], 11);
+ENERGY.add([
+  { id: 'jungle', tracks: [{ a: 'Hyper-On Experience', t: 'Lords of the Null Lines', y: 1993 }, { a: 'DJ Trax', t: 'Infinite Hype', y: 1992 }, { a: 'Sly & the Family Stone', t: 'Africa Talks to You «The Asphalt Jungle»', y: 1971 }, { a: 'Bodysnatch', t: 'Just 4 U London', y: 1992 }] },
+  { id: 'ragga-jungle', tracks: [{ a: 'Naz Aka Naz', t: 'Organised Crime', y: 1994 }] },
+], 11);
